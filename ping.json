@@ -2,9 +2,9 @@
     "query": [
         {
             "number": 1,
-            "name": "Arizonachka",
-            "ip": "194.61.3.167",
-            "port": 1175,
+            "name": "Visa",
+            "ip": "51.75.232.71",
+            "port": 1213,
             "online": 0,
             "maxplayers": 101,
             "password": false,
