@@ -2,7 +2,7 @@
     "query": [
         {
             "number": 1,
-            "name": "Visa",
+            "name": "Denver",
             "ip": "51.75.232.71",
             "port": 1213,
             "online": 0,
